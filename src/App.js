@@ -71,7 +71,7 @@ class App extends Component {
         <button onClick={this.saveLap}>Lap</button>
 
         <ul>
-          {laps}
+          {savedLaps}
         </ul>
       </div>
     );
